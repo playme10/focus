@@ -1,0 +1,803 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/kanalddrama.png" tvg-id="a37b255197c401ccd409c5075d3b8ab3",Kanal D Drama
+http://mi.tv.org:9981/stream/channelid/1361410979?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tntnovelas.png" tvg-id="024f8730a12d4c39c8a9f3b5f76f2315",TNT Novelas
+http://mi.tv.org:9981/stream/channelid/814173954?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/americatv.png" tvg-id="e453f96e222440cc27ef6c9494183593" tvg-chno="1",America TV
+http://mi.tv.org:9981/stream/channelid/1861833700?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/latina.png" tvg-id="f126a684ae2c18f5ff7f57989fc7c508" tvg-chno="2",Latina
+http://mi.tv.org:9981/stream/channelid/77997809?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/americatv.png" tvg-id="a15ec94adc7ec1cdad47f112feb01734" tvg-chno="4",America Television
+http://mi.tv.org:9981/stream/channelid/1254710945?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/panamericanatv.png" tvg-id="bcfca2dcad2f1aad156cd8e9c6b9acc2" tvg-chno="5",Panamericana
+http://mi.tv.org:9981/stream/channelid/1554185404?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tvperu.png" tvg-id="4dd1eba6dfecd5ac2187c4e71f4cd67c" tvg-chno="6",TV Peru
+http://mi.tv.org:9981/stream/channelid/652988749?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/atv.png" tvg-id="7f7efd9954a43cc95f87ce7a862da21b" tvg-chno="7",ATV
+http://mi.tv.org:9981/stream/channelid/436043391?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/hbofamily.png" tvg-id="8df71b05cc5393af88e8bdd3312f11c7" tvg-chno="8",HBO Family
+http://mi.tv.org:9981/stream/channelid/85718925?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/global.png" tvg-id="6d379680790cb3b009afdd361321a953" tvg-chno="9",GLOBAL
+http://mi.tv.org:9981/stream/channelid/9844589?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/cmd.png" tvg-id="4170858db74391cc8f16a88007225774" tvg-chno="10",CMD
+http://mi.tv.org:9981/stream/channelid/226848833?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/canaln.png" tvg-id="917f38c9ae191b95a2530466e4cce492" tvg-chno="11",Canal N
+http://mi.tv.org:9981/stream/channelid/1228439441?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/perumagico.png" tvg-id="1bed1941f2ec37786765b374ca25a123" tvg-chno="12",Peru Magico
+http://mi.tv.org:9981/stream/channelid/1092218139?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/canalestrellas.png" tvg-id="1783bc00ad2888977cf7bcc78af21fbd" tvg-chno="15",Canal Estrellas
+http://mi.tv.org:9981/stream/channelid/12354327?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/ntn24horas.png" tvg-id="1474021e190d7276aa51d69e789e9df4" tvg-chno="16",NTN 24 Horas
+http://mi.tv.org:9981/stream/channelid/503477268?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/telemundo.png" tvg-id="204c5eb16966a5932a8238370ae49e0c" tvg-chno="17",Telemundo
+http://mi.tv.org:9981/stream/channelid/828263456?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/nickjr.png" tvg-id="b30d6ae5c6dd094dd7c40743f8786884" tvg-chno="20",Nick Jr
+http://mi.tv.org:9981/stream/channelid/1701449139?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_E-w4YYdWvCmkppv39ockqjEUtydS2yue-Sr5ynZp52xx=s176-c-k-c0x00ffffff-no-rj" tvg-id="a813a90b21dc5a7b2b1be0c75bb44a08" tvg-chno="20",WILLAX TV
+http://mi.tv.org:9981/stream/channelid/195629992?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTSoKLGIoh4g84thqcbPOfUKdozFkrO37nbDKEO=s48-c-k-c0x00ffffff-no-rj" tvg-id="ca0bc32d4d4d06af21b4fc15b596b79e" tvg-chno="21",EXITOSA TV PERU
+http://mi.tv.org:9981/stream/channelid/767757258?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/discoveryscience.png" tvg-id="23799218d79324e78570ac0ea2af619e" tvg-chno="23",Discovery Science
+http://mi.tv.org:9981/stream/channelid/412252451?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/cartoonnetwork.png" tvg-id="b730e21618d12fca3aac548edfc0da82" tvg-chno="24",Cartoon Network
+http://mi.tv.org:9981/stream/channelid/383922359?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/boomerang.png" tvg-id="d18d191a991836799f2ebab3b0bae337" tvg-chno="26",Cartoonito
+http://mi.tv.org:9981/stream/channelid/437882321?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/eentertainment.png" tvg-id="a3f12620f1004cadd1b20b3ed8f2a9bd" tvg-chno="99",E Entertainment
+http://mi.tv.org:9981/stream/channelid/539423139?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tntsports2.png" tvg-id="eea14e0e709a7dc2b1540148c6440b10" tvg-chno="101",TNT Sports Premium
+http://mi.tv.org:9981/stream/channelid/240034286?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/viax.png" tvg-id="1d57b02a8c91c5aec210ca372ce8ba5b" tvg-chno="109",ViaX
+http://mi.tv.org:9981/stream/channelid/716199709?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/warnerchannel.png" tvg-id="97e86391f1b8f970ee9c2880aadbccff" tvg-chno="112",Warner
+http://mi.tv.org:9981/stream/channelid/291760279?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/cinemax.png" tvg-id="ee50933107d28872e4d9eb20d101cbf0" tvg-chno="113",Cinemax
+http://mi.tv.org:9981/stream/channelid/831738094?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/hbo.png" tvg-id="2cdb3018608929ca286fbf62bb297ff0" tvg-chno="114",HBO
+http://mi.tv.org:9981/stream/channelid/405855020?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/discoverychannel.png" tvg-id="0c2ec966e0b2af074eaefba2cf4e1875" tvg-chno="115",Discovery Channel
+http://mi.tv.org:9981/stream/channelid/1724460556?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/animalplanet.png" tvg-id="d35a1a84c1bb3d91cbbb308b25a39152" tvg-chno="116",Animal Planet
+http://mi.tv.org:9981/stream/channelid/68836051?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tycsports.png" tvg-id="555842abafeae81b88cce47a96c4aa27" tvg-chno="119",TyC Sports
+http://mi.tv.org:9981/stream/channelid/725768277?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/lasestrellas.png" tvg-id="433cf42c168b93cdb6d0d6a9b3233721" tvg-chno="121",Las Estrellas
+http://mi.tv.org:9981/stream/channelid/754203715?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/studiouniversal.png" tvg-id="198449ad4dca8cac28932569a2685eed" tvg-chno="123",Studio Universal
+http://mi.tv.org:9981/stream/channelid/759792665?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/paramountchannel.png" tvg-id="8150203e18b2988456151c1330dcf353" tvg-chno="124",Paramount Channel
+http://mi.tv.org:9981/stream/channelid/1042305153?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/enlace.png" tvg-id="1ce2cfe8670a9c03fe70531e829e1a04" tvg-chno="125",Enlace
+http://mi.tv.org:9981/stream/channelid/1758454300?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/elgourmet.png" tvg-id="4be4142e74b57b5672b28974e4f2d8dd" tvg-chno="127",El Gourmet
+http://mi.tv.org:9981/stream/channelid/773121099?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/cablenoticias.png" tvg-id="eaa2044a004112cc4a12db84350ccd7f" tvg-chno="131",CableNoticias
+http://mi.tv.org:9981/stream/channelid/1241817834?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/isat.png" tvg-id="82eed5d0b081aebdf5da567e9d922eb8" tvg-chno="134",I-Sat
+http://mi.tv.org:9981/stream/channelid/1356197506?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tooncast.png" tvg-id="7e1d754dd8e6f6e4d0ace9efe336a797" tvg-chno="137",Tooncast
+http://mi.tv.org:9981/stream/channelid/1299520894?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/discoveryturbo.png" tvg-id="37bbf6cd7816e852b2c46e8b73e51c8a" tvg-chno="138",Discovery Turbo
+http://mi.tv.org:9981/stream/channelid/1308015415?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/discoverykids.png" tvg-id="d465335c8922d11bb620c52bf4f6a8c6" tvg-chno="140",Discovery Kids
+http://mi.tv.org:9981/stream/channelid/1546872276?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/lifetime.png" tvg-id="6a5c73df247a598352d0d879ca5ccead" tvg-chno="141",Lifetime
+http://mi.tv.org:9981/stream/channelid/1601395818?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/space.png" tvg-id="696d2469ec1351acd6cff96d5828d7f0" tvg-chno="143",Space
+http://mi.tv.org:9981/stream/channelid/1763994985?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/warner.png" tvg-id="d93417e0761a5a328ec3ae32af8f3a7c" tvg-chno="144",Warner
+http://mi.tv.org:9981/stream/channelid/1612133593?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/golden.png" tvg-id="38e18768d3ebd7a9d011bce89b86bf45" tvg-chno="145",Golden
+http://mi.tv.org:9981/stream/channelid/1753735480?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/hbo2.png" tvg-id="4d4f4b6ae5cac8bc07d878911804d33a" tvg-chno="146",HBO2
+http://mi.tv.org:9981/stream/channelid/1783320397?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tyc.png" tvg-id="a065286d87b636f4455cd955b293c17e" tvg-chno="148",TyC  Sports
+http://mi.tv.org:9981/stream/channelid/1831364000?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/disneychannel.png" tvg-id="e46094f1527199a81b71bd08125c2056" tvg-chno="152",Disney Channel
+http://mi.tv.org:9981/stream/channelid/1905549540?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tlc.png" tvg-id="aaf10a76805d78add3aa6956a38ae714" tvg-chno="155",TLC
+http://mi.tv.org:9981/stream/channelid/1980428714?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/hbomundi.png" tvg-id="918d7e7fba5b10f879eb37808cc22ec3" tvg-chno="156",HBO MUNDI
+http://mi.tv.org:9981/stream/channelid/2139000209?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/aemundo.png" tvg-id="b5fa58febe72f6604c8c127f4735dff3" tvg-chno="157",AE Mundo
+http://mi.tv.org:9981/stream/channelid/2119760565?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/mega.png" tvg-id="1f7a3c9c4f609b7247b539edf80bcfa8" tvg-chno="158",Mega
+http://mi.tv.org:9981/stream/channelid/473725471?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tvn.png" tvg-id="882c3120ee62a9307577195dad6a03c1" tvg-chno="159",TVN
+http://mi.tv.org:9981/stream/channelid/540093576?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/hbo2.png" tvg-id="53e244212084f1f0995c443873547aec" tvg-chno="160",HBO 2
+http://mi.tv.org:9981/stream/channelid/558162515?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/hboxtremesd.png" tvg-id="fd4b5ea7519f95cc101cae8f2492e1e9" tvg-chno="161",HBO XTREME
+http://mi.tv.org:9981/stream/channelid/660491261?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/espn2.png" tvg-id="3282c5a90ee09c48ad53cdd36d7605f7" tvg-chno="163",ESPN 2
+http://mi.tv.org:9981/stream/channelid/700809778?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/disneyjr.png" tvg-id="d0df60af51de5dcaa95dd670f625b5f6" tvg-chno="164",Disney Jr
+http://mi.tv.org:9981/stream/channelid/794877904?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/chv.png" tvg-id="1826bed8c2ff12e2c4f19ce211574baf" tvg-chno="166",CHV
+http://mi.tv.org:9981/stream/channelid/1488856600?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/canal13.png" tvg-id="965ef4b70145fcc645c9b01d70fa7b6f" tvg-chno="167",Canal 13
+http://mi.tv.org:9981/stream/channelid/938761878?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/lared.png" tvg-id="47faf8e6372a8e08ed894a1c5db61dbd" tvg-chno="169",La Red
+http://mi.tv.org:9981/stream/channelid/1727593031?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/24horas.png" tvg-id="23fbade9c1324f0bcde54a40747362ef" tvg-chno="170",24 HORAS
+http://mi.tv.org:9981/stream/channelid/1773009699?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/senalcolombia.png" tvg-id="4f5c61ba609ce96a750b00f91f7969cd" tvg-chno="171",Senal Colombia
+http://mi.tv.org:9981/stream/channelid/979459151?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/zonalatina.png" tvg-id="342950522ec4c82b83b0ee28e60704a5" tvg-chno="174",Zona Latina
+http://mi.tv.org:9981/stream/channelid/1380985140?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/cnnchile.png" tvg-id="3302f51b80c2626a914e50e2018f59ff" tvg-chno="176",CNN Chile
+http://mi.tv.org:9981/stream/channelid/469041715?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/snt.png" tvg-id="815eab953739bff6c78f4b28a07a9fdf" tvg-chno="177",SNT
+http://mi.tv.org:9981/stream/channelid/363552385?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/hgtv.png" tvg-id="06e3ba3b08906a1eacb0e4f665aae2e8" tvg-chno="178",HGTV
+http://mi.tv.org:9981/stream/channelid/1002103558?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/nuestratele.png" tvg-id="9faf76c35a1621ec7a5cc45d47fce35a" tvg-chno="179",Nuestra Tele
+http://mi.tv.org:9981/stream/channelid/1131851679?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/depelicula.png" tvg-id="0587b34fa95aeb2bab9f3b7128ade610" tvg-chno="181",De Pelicula
+http://mi.tv.org:9981/stream/channelid/1337165573?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/telefe.png" tvg-id="23d243d16eef9e14aff283559a17d5b7" tvg-chno="182",Telefe
+http://mi.tv.org:9981/stream/channelid/1363399203?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/globovision.png" tvg-id="99302ed480fee0ad061d1875f2c0d449" tvg-chno="183",Globovision
+http://mi.tv.org:9981/stream/channelid/1412313241?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/rcn.png" tvg-id="6f86af59e8e7f763b35047c1fba2de93" tvg-chno="184",RCN
+http://mi.tv.org:9981/stream/channelid/1504675439?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tlt.png" tvg-id="af5bfedb07cf53461fd4d86f2d93f2fe" tvg-chno="185",TLT
+http://mi.tv.org:9981/stream/channelid/1543396271?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/htv.png" tvg-id="1840ea15b6c1de1318100495024cc4ab" tvg-chno="186",HTV
+http://mi.tv.org:9981/stream/channelid/367673368?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/telesur.png" tvg-id="a705b20cf7a614f64838a3be56eaaefe" tvg-chno="187",Telesur
+http://mi.tv.org:9981/stream/channelid/212993447?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/aande.png" tvg-id="1da88912eab5d17bccda9c6ddc7c0978" tvg-chno="188",A&E
+http://mi.tv.org:9981/stream/channelid/311011357?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/cnnespaaeol.png" tvg-id="eae940a3a397ea903fca3867b9a74f6e" tvg-chno="189",CNN Español
+http://mi.tv.org:9981/stream/channelid/591456746?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/foxsports3.png" tvg-id="7fc86ca593d3b805d86fef95d318f5b1" tvg-chno="191",ESPN 6
+http://mi.tv.org:9981/stream/channelid/627886207?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/bbcworld.png" tvg-id="8eccbf362c13f263daf2914eba4f5ca2" tvg-chno="193",BBC World
+http://mi.tv.org:9981/stream/channelid/918539406?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/golperu.png" tvg-id="2e0e7838ab0d7408078081bf42f48f81" tvg-chno="194",GOLPERU
+http://mi.tv.org:9981/stream/channelid/947392046?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/babytv.png" tvg-id="8a2bdeba7789adae58f8cc56e14a299a" tvg-chno="195",Baby TV
+http://mi.tv.org:9981/stream/channelid/987638666?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/citytv.png" tvg-id="29d3aa45963ab8e3eb99e89ab16d3284" tvg-chno="196",City TV
+http://mi.tv.org:9981/stream/channelid/1168823081?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/trutv.png" tvg-id="3dda52528efbed8217f3feb336e38f48" tvg-chno="199",Adult Swim
+http://mi.tv.org:9981/stream/channelid/1381161533?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/dwdeutschplus.png" tvg-id="2eeb455503c1f27047910e48819c2de2" tvg-chno="201",DW Espaæol
+http://mi.tv.org:9981/stream/channelid/1430645550?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/atresseries.png" tvg-id="392e465cad36aee9a2b6af52bfa32333" tvg-chno="202",ATRES SERIES
+http://mi.tv.org:9981/stream/channelid/1548103225?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/eurochannel.png" tvg-id="02e4bbef0155d2348765cb710808d651" tvg-chno="203",Eurochannel
+http://mi.tv.org:9981/stream/channelid/1874584578?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/hboxtreme.png" tvg-id="ad40f873699fd931c082a47c3763f99a" tvg-chno="204",HBO XTREME
+http://mi.tv.org:9981/stream/channelid/1945649325?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSR6RbAvOISX0gmzk1QZpVRxY1aEX5pNswqVe5q=s88-c-k-c0x00ffffff-no-rj" tvg-id="5142cef10aa09e846d77aac9306cb8e2" tvg-chno="205",RADIO UNO
+http://mi.tv.org:9981/stream/channelid/1909342801?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/rai.png" tvg-id="5d67b0f9b391519f806e7a125f7336ce" tvg-chno="205",RAI
+http://mi.tv.org:9981/stream/channelid/2041603933?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tnt.png" tvg-id="8ebbf9fa4725a098342396e9bb3e3de8" tvg-chno="206",TNT
+http://mi.tv.org:9981/stream/channelid/2063186830?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/travelandlivingchannel.png" tvg-id="4db968ff10d4cac51f34f790703c77fc" tvg-chno="208",Travel and Living Channel
+http://mi.tv.org:9981/stream/channelid/2137569613?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/mtv.png" tvg-id="d27a86586f9435a25956a0e4370d19f1" tvg-chno="209",MTV
+http://mi.tv.org:9981/stream/channelid/1485208274?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tntseries.png" tvg-id="6c4f070011dc92637988ad07e2209269" tvg-chno="211",TNT Series
+http://mi.tv.org:9981/stream/channelid/479084?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/telefuturo.png" tvg-id="3dc19af1692e01d556479ea3b46860cc" tvg-chno="214",Telefuturo
+http://mi.tv.org:9981/stream/channelid/1905967421?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/nickelodeon.png" tvg-id="f41e5e312da3684bf72cdaa8a6cd3d71" tvg-chno="291",Nickelodeon
+http://mi.tv.org:9981/stream/channelid/828251892?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/rcnnovelas.png" tvg-id="15b19267efbcd7da4af6ba5a2d554c52" tvg-chno="296",RCN Novelas
+http://mi.tv.org:9981/stream/channelid/1737666837?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tve.png" tvg-id="11922ef065f66812321d0e373f08818e" tvg-chno="297",TVE
+http://mi.tv.org:9981/stream/channelid/1882100241?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/natgeo.png" tvg-id="8018ef73be1027511103b611c166b9cd" tvg-chno="299",Nat Geo
+http://mi.tv.org:9981/stream/channelid/1945049216?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/historychannel.png" tvg-id="08940179fa220fd57cfe86e04f0a07ea" tvg-chno="300",History Channel
+http://mi.tv.org:9981/stream/channelid/2030146568?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/foxsports.png" tvg-id="9c2b9fc246613257da9418f5fdd0493e" tvg-chno="309",ESPN 5
+http://mi.tv.org:9981/stream/channelid/1117727644?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/foxsports2.png" tvg-id="15037025deb79e3ea00e44376031195e" tvg-chno="310",ESPN 7
+http://mi.tv.org:9981/stream/channelid/628097813?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/foxsports1.png" tvg-id="dc9ccc2de1965f38d232be07d0f5efcb" tvg-chno="311",ESPN 5
+http://mi.tv.org:9981/stream/channelid/768384220?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/espn.png" tvg-id="7484195cfe81e3b5bf7c4deb1e9b7cfa" tvg-chno="312",ESPN
+http://mi.tv.org:9981/stream/channelid/1545176180?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/espn2latin.png" tvg-id="6eb6e54debcc2bf87f3f59f1c1f5131b" tvg-chno="313",ESPN 2 Latin
+http://mi.tv.org:9981/stream/channelid/1306900078?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tntsports3.png" tvg-id="c6dbd94f577c681370a5fbed9dbadef8" tvg-chno="314",TNT Sports
+http://mi.tv.org:9981/stream/channelid/1339677638?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/hboplus.png" tvg-id="89d6ba81541a8dbd1d6a848e3a10d3b2" tvg-chno="315",HBO Plus
+http://mi.tv.org:9981/stream/channelid/29021833?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/goltv.png" tvg-id="30fe91092171f3e70e43d75f1aef98ec" tvg-chno="316",Gol TV
+http://mi.tv.org:9981/stream/channelid/160562736?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/goltv.png" tvg-id="29469d5892bc6ab17a166344a9b9a61c" tvg-chno="318",Gol TV
+http://mi.tv.org:9981/stream/channelid/1486702121?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/cnninternational.png" tvg-id="db9af62f5e195ffee57f759d7a65bd5a" tvg-chno="319",CNN International
+http://mi.tv.org:9981/stream/channelid/804690651?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tnt.png" tvg-id="fdc7b02ba84c457831849edcb105a544" tvg-chno="320",TNT Latino
+http://mi.tv.org:9981/stream/channelid/733005821?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tcm.png" tvg-id="dbe7b958391a5b849f888eaf18cee4bb" tvg-chno="321",TCM
+http://mi.tv.org:9981/stream/channelid/1488578523?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/isat.png" tvg-id="65fc9965101c04583045bedd345b8863" tvg-chno="322",I-Sat
+http://mi.tv.org:9981/stream/channelid/1704590437?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/cinecanal.png" tvg-id="ce63ba54031ddca09fdf845080e247f8" tvg-chno="323",Cinecanal
+http://mi.tv.org:9981/stream/channelid/1421501390?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/universal.png" tvg-id="95c43e1566d1b4f1368eca69d2fe7a19" tvg-chno="324",Universal
+http://mi.tv.org:9981/stream/channelid/356435093?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/discoveryid.png" tvg-id="aabddbeeed37b692306b64236b3396ab" tvg-chno="325",Discovery ID
+http://mi.tv.org:9981/stream/channelid/1859894698?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/hbosignature.png" tvg-id="8b8c7e78c461b0a41a635fb4961131b5" tvg-chno="326",HBO Signature
+http://mi.tv.org:9981/stream/channelid/2021559435?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/cnnespanol.png" tvg-id="a98f5c8878c15119ab31687bf0f27640" tvg-chno="328",CNN Español
+http://mi.tv.org:9981/stream/channelid/140283817?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/americatvpy.png" tvg-id="60ae14e17e6929853b4b76a5081ee1dd" tvg-chno="500",America TV PY
+http://mi.tv.org:9981/stream/channelid/1628745312?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/depeltcula.png" tvg-id="03df10cc8b3aaf316da357e6a54ee9dc" tvg-chno="500",De PelŦcula
+http://mi.tv.org:9981/stream/channelid/1276174083?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/ecuadortv.png" tvg-id="50870a3c7d73de7ac5886eec6db2b6b6" tvg-chno="500",Ecuador TV
+http://mi.tv.org:9981/stream/channelid/1007322960?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/eltrece.png" tvg-id="161dcf38b3a7ac7bff754000d2bef50c" tvg-chno="500",El Trece
+http://mi.tv.org:9981/stream/channelid/953097494?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/gamatv.png" tvg-id="58e78e8fd627ece93b55b84202f03d1e" tvg-chno="500",GamaTV
+http://mi.tv.org:9981/stream/channelid/261023576?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/homeandhealth.png" tvg-id="e6dc220c1c4141a1e2ad83a4d65c27c8" tvg-chno="500",HomeandHealth
+http://mi.tv.org:9981/stream/channelid/203611366?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/paraguaytv.png" tvg-id="08407ec024056a28157ded56a433a114" tvg-chno="500",ParaguayTV
+http://mi.tv.org:9981/stream/channelid/1082015752?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/plustv.png" tvg-id="763c555698f059298114797c21b5882f" tvg-chno="500",PLUSTV
+http://mi.tv.org:9981/stream/channelid/1448426614?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/sinlimites.png" tvg-id="df6db6342d54b7da5f92d9ec4039bb96" tvg-chno="500",Sin Limites
+http://mi.tv.org:9981/stream/channelid/884370911?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/trece.png" tvg-id="0e06a38352a7057124a2e126e33b76d4" tvg-chno="500",Trece
+http://mi.tv.org:9981/stream/channelid/61015566?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/venevisionplus.png" tvg-id="701cc75edbfff76ac74c050e707f894b" tvg-chno="500",Venevision Plus
+http://mi.tv.org:9981/stream/channelid/1590107248?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/wobi.png" tvg-id="221d39fa91256c90820017a1f46297e7" tvg-chno="500",WOBI
+http://mi.tv.org:9981/stream/channelid/2050563362?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" tvg-id="f26a92d33a18e1b3547448e4fc92546b" tvg-chno="601",Guía de canales
+http://mi.tv.org:9981/stream/channelid/1402104562?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" tvg-id="aee0a2a7e600fb743fce7ac82c063740" tvg-chno="652",Pluto TV Cine Estelar
+http://mi.tv.org:9981/stream/channelid/664985774?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" tvg-id="fc432922d674d8ade83f37c8c0dcc112" tvg-chno="657",Estrellas de Acción
+http://mi.tv.org:9981/stream/channelid/573129724?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" tvg-id="4e2d37ca9bbed8a0c668d241903b7069" tvg-chno="658",Pluto TV Adrenalina Freezone
+http://mi.tv.org:9981/stream/channelid/1245130062?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" tvg-id="a3af1fe04271a81e759808e8fe0151f9" tvg-chno="660",Pluto TV Cine Comedia
+http://mi.tv.org:9981/stream/channelid/1612689315?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" tvg-id="9416b8cd050c700c2d305861c9f7d149" tvg-chno="663",Pluto TV Cine Drama
+http://mi.tv.org:9981/stream/channelid/1303910036?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" tvg-id="f368c1ed91d6736232835437cb3df19c" tvg-chno="666",Pluto TV Cine Romance
+http://mi.tv.org:9981/stream/channelid/1841391859?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" tvg-id="19d14c5e9d01144cb814366d6c06d2c8" tvg-chno="669",Pluto TV Cine Suspenso
+http://mi.tv.org:9981/stream/channelid/1582092569?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" tvg-id="72724fd249e37d71b60ccf78456fc2b5" tvg-chno="670",Pluto TV Cine Crimen
+http://mi.tv.org:9981/stream/channelid/1380938354?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" tvg-id="d204d88e51d32291ff8fe841ec6424e3" tvg-chno="672",Pluto TV Cine Terror
+http://mi.tv.org:9981/stream/channelid/249038034?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" tvg-id="4dd76f93497ea3f394ed87f1f9d92632" tvg-chno="674",Pluto TV Sci-Fi
+http://mi.tv.org:9981/stream/channelid/326096717?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png" tvg-id="4e739e01de7ef3c087fbd01171ed915e" tvg-chno="677",Pluto TV Filmstream
+http://mi.tv.org:9981/stream/channelid/27161422?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" tvg-id="b820db742c687cfc17c825be7bd36013" tvg-chno="681",Pluto TV  Nuestro Cine
+http://mi.tv.org:9981/stream/channelid/1960517816?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" tvg-id="7fc2b712cd778d8664ca88580f13c94d" tvg-chno="685",Pluto TV Cine Clásico
+http://mi.tv.org:9981/stream/channelid/314032767?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" tvg-id="f9ff69c38497a97f28fda6496f2a02a9" tvg-chno="687",Pluto TV Cine Familia
+http://mi.tv.org:9981/stream/channelid/1131020281?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG.png" tvg-id="b9f5ad7d42c12df11ac8e6650b832cee" tvg-chno="695",Pluto TV Cine Navidad
+http://mi.tv.org:9981/stream/channelid/2108552633?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8a0e7a9ab0370008b177f2/colorLogoPNG.png" tvg-id="8ca25b55e1f115d26c1c3a9a2ebfb65f" tvg-chno="696",Luces Navideñas
+http://mi.tv.org:9981/stream/channelid/1432068748?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8a0f421418bd0007e14548/colorLogoPNG.png" tvg-id="ffc35d9b9436269c970b4abec3750422" tvg-chno="697",Chimenea Navideña
+http://mi.tv.org:9981/stream/channelid/459129855?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" tvg-id="39c2d8bfd660b616e1a9638ecda32d6e" tvg-chno="700",Archivos Forenses
+http://mi.tv.org:9981/stream/channelid/1071170105?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" tvg-id="ba8dd7f354b5eb4cff7811b0fcd22f27" tvg-chno="700",Babar
+http://mi.tv.org:9981/stream/channelid/1943506362?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" tvg-id="f3f9aae298092f0edef9663f2b55c3aa" tvg-chno="700",Baby Shark TV
+http://mi.tv.org:9981/stream/channelid/1655372275?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" tvg-id="3011026507b653b816f4916cb552f9bd" tvg-chno="700",Babyfirst
+http://mi.tv.org:9981/stream/channelid/1694634288?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc8684bf50b00074a46b1/colorLogoPNG.png" tvg-id="00c930fdf49b7e90260cb9355efcfc98" tvg-chno="700",Backdoor
+http://mi.tv.org:9981/stream/channelid/2100349184?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" tvg-id="81c2e5d11b969b53b9e432c421cd3285" tvg-chno="700",Barney
+http://mi.tv.org:9981/stream/channelid/1374012033?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632119a92c3b880007d3f5dc/colorLogoPNG.png" tvg-id="57db5bfc02491ccaefaf94c2cf7e9db6" tvg-chno="700",Beyblade
+http://mi.tv.org:9981/stream/channelid/2086394711?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" tvg-id="6b4e9e98fe65ec56f2f9c91de00b055b" tvg-chno="700",Bob Esponja Pantalones Cuadrados
+http://mi.tv.org:9981/stream/channelid/413027947?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" tvg-id="7f1ff827cff7e19092248dddea3e4835" tvg-chno="700",Cazador de Homicidas
+http://mi.tv.org:9981/stream/channelid/670572415?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" tvg-id="fc6718ee4a81497b024ff5c5f89c5a9b" tvg-chno="700",CBS News
+http://mi.tv.org:9981/stream/channelid/1847093244?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" tvg-id="295162cfb9f3032d03bcd060993b91e0" tvg-chno="700",Chilevision Contigo
+http://mi.tv.org:9981/stream/channelid/1331843369?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8a0f421418bd0007e14548/colorLogoPNG.png" tvg-id="e8d0959dcf5faaf2e801d2ba036b127f" tvg-chno="700",Chimenea Navideña
+http://mi.tv.org:9981/stream/channelid/496357608?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" tvg-id="812cd987da2e671fd9907f0bc0fe2679" tvg-chno="700",Comedy Central Pluto TV
+http://mi.tv.org:9981/stream/channelid/131673217?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" tvg-id="c4dfcbe764bd2f37692646caf4383c4b" tvg-chno="700",Comedy Central South Park
+http://mi.tv.org:9981/stream/channelid/1741414340?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" tvg-id="040ea11c2e8e83099e191cd64e58b178" tvg-chno="700",Conciertos por Stingray
+http://mi.tv.org:9981/stream/channelid/480316932?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" tvg-id="52a3c0906253f2e9d71451ce24ace570" tvg-chno="700",Daria
+http://mi.tv.org:9981/stream/channelid/281060178?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" tvg-id="478db75f7f0112f50083a009908356f4" tvg-chno="700",Death Note
+http://mi.tv.org:9981/stream/channelid/1605864775?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" tvg-id="19870d139ee2da898718d19a212e297b" tvg-chno="700",Dog el cazarrecompensas
+http://mi.tv.org:9981/stream/channelid/319653657?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" tvg-id="06287a1fda879dafca68230b9d17fd12" tvg-chno="700",El Encantador de Perros
+http://mi.tv.org:9981/stream/channelid/528099334?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/612f8b455ed5810007170b5f/colorLogoPNG.png" tvg-id="8f6886a34958233b785c67eda89cd083" tvg-chno="700",El Mariachi
+http://mi.tv.org:9981/stream/channelid/596011151?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" tvg-id="ace8c7fdd8d80c35cc5f36c505a857c6" tvg-chno="700",El Reino Infantil
+http://mi.tv.org:9981/stream/channelid/2110253228?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" tvg-id="a2513b39e5808a5fc4ee539fea6d4fb2" tvg-chno="700",ESR 24/7
+http://mi.tv.org:9981/stream/channelid/960188834?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" tvg-id="1a8f8485d84586880776907be8f186b4" tvg-chno="700",FailArmy
+http://mi.tv.org:9981/stream/channelid/92573466?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" tvg-id="7634723a6064bd2ce56d9d0c89574788" tvg-chno="700",FUEL TV
+http://mi.tv.org:9981/stream/channelid/980563062?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" tvg-id="a06932ecdcc1097d1815ee62cb7b528c" tvg-chno="700",Gran Hermano en vivo
+http://mi.tv.org:9981/stream/channelid/1815243168?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" tvg-id="3d77b6deb7f1b374b61e89b371bfe5f1" tvg-chno="700",Hells Kitchen
+http://mi.tv.org:9981/stream/channelid/1589016381?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" tvg-id="a501996f8f829f53a6053757a0a1eb18" tvg-chno="700",Ice Pilots
+http://mi.tv.org:9981/stream/channelid/1872298405?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png" tvg-id="03a22eac6334d86b5a166ab0c7d802f6" tvg-chno="700",Iron Chef
+http://mi.tv.org:9981/stream/channelid/741253635?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" tvg-id="8d7619f6a1b78f506101f83dc7f48a5f" tvg-chno="700",Karaoke por Stingray
+http://mi.tv.org:9981/stream/channelid/1981380237?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" tvg-id="893cb9414cb593e4cfc45d4a85f67d70" tvg-chno="700",Kenan y Kel
+http://mi.tv.org:9981/stream/channelid/1102658697?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" tvg-id="ff8b86029f1bcad3c9d7f6c3b223dc26" tvg-chno="700",La Familia del Barrio
+http://mi.tv.org:9981/stream/channelid/42372095?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" tvg-id="35c4bbf91ce7525cb014cc129bdcce72" tvg-chno="700",La Liga Premier | Paramount+
+http://mi.tv.org:9981/stream/channelid/2042348597?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" tvg-id="16bf41bc2bdb1032f2f81838f4a7ce36" tvg-chno="700",Las Pistas de Blue
+http://mi.tv.org:9981/stream/channelid/1010941718?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" tvg-id="b503639623901fe2c470b7aac72e1707" tvg-chno="700",Los archivos del FBI
+http://mi.tv.org:9981/stream/channelid/375587765?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" tvg-id="a112670b7492b68d1402e2092590e607" tvg-chno="700",Los Padrinos Mágicos
+http://mi.tv.org:9981/stream/channelid/191304353?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" tvg-id="1189fbc567d1fbd945201ca18c5a6a92" tvg-chno="700",Los Tres Chiflados
+http://mi.tv.org:9981/stream/channelid/1174112529?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8a0e7a9ab0370008b177f2/colorLogoPNG.png" tvg-id="2ae89154b5528414107dfdb2806f06c9" tvg-chno="700",Luces Navideñas
+http://mi.tv.org:9981/stream/channelid/1418848298?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" tvg-id="a55e31ccf4799889e224077bca51c874" tvg-chno="700",Lucha Libre AAA
+http://mi.tv.org:9981/stream/channelid/1278303909?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254ab6fa74f8e0007ba6879/colorLogoPNG.png" tvg-id="c4280eb649d19d43862b73065d163f7c" tvg-chno="700",Maestros de la Ilusión
+http://mi.tv.org:9981/stream/channelid/906897604?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" tvg-id="bf3b43fb92530a709c4e7cf520129775" tvg-chno="700",MasterChef
+http://mi.tv.org:9981/stream/channelid/2068003775?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" tvg-id="87bce28078a1269048c472dcb30c4838" tvg-chno="700",Minuto Para Ganar
+http://mi.tv.org:9981/stream/channelid/14859399?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" tvg-id="24518da997d59c7de76b4b9fc11943ee" tvg-chno="700",Misterios sin Resolver
+http://mi.tv.org:9981/stream/channelid/697127204?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" tvg-id="d2bcd18435a0232a377b36af5037349a" tvg-chno="700",Motorvision TV
+http://mi.tv.org:9981/stream/channelid/80854226?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" tvg-id="5efd2eb1f9eb1158e621d0fa9634e818" tvg-chno="700",MTV Biggest Pop
+http://mi.tv.org:9981/stream/channelid/825163102?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" tvg-id="3675044ac1d6552b8535aa7e1ef9e0df" tvg-chno="700",MTV Catfish
+http://mi.tv.org:9981/stream/channelid/1241806134?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" tvg-id="1532ce120ac53a7fca02581ca352bd0a" tvg-chno="700",MTV Classic
+http://mi.tv.org:9981/stream/channelid/315503125?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" tvg-id="17537cb8e698ddcad7ea83679fbce0a0" tvg-chno="700",MTV Pluto TV
+http://mi.tv.org:9981/stream/channelid/947671831?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" tvg-id="a9ba120eb1ec6300a68a4f90da862e64" tvg-chno="700",MTV Ridiculousness
+http://mi.tv.org:9981/stream/channelid/236108457?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" tvg-id="f017ba34729ad08b43f5dcf41d400b91" tvg-chno="700",MTV Shore
+http://mi.tv.org:9981/stream/channelid/884611056?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" tvg-id="1ef26d0c039a38ffcc05fd27ee2605ea" tvg-chno="700",MTV Spankin' New
+http://mi.tv.org:9981/stream/channelid/208531998?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" tvg-id="4ce4b1c65cba0e8afab9d1e831d45875" tvg-chno="700",MTV Teen Mom
+http://mi.tv.org:9981/stream/channelid/1186063436?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" tvg-id="72eec325e1be7bf8557bdcea84c1754c" tvg-chno="700",Nick Clásico
+http://mi.tv.org:9981/stream/channelid/633597554?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" tvg-id="264d6ccd76626cf903fe72d48c6dd548" tvg-chno="700",Nick Jr. Club
+http://mi.tv.org:9981/stream/channelid/1298943270?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" tvg-id="b6822e04e682f6d4cb50ad2169bf1a99" tvg-chno="700",Nick Teen
+http://mi.tv.org:9981/stream/channelid/70156982?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" tvg-id="d8d3cec7e231947c029ff385884e1692" tvg-chno="700",Nickelodeon iCarly
+http://mi.tv.org:9981/stream/channelid/1204736984?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" tvg-id="531ed7631e81c0a5503db61c8917ad99" tvg-chno="700",Nickelodeon Rocket Power
+http://mi.tv.org:9981/stream/channelid/1675042387?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" tvg-id="8482db2347cda5abe981927a3a1e12fa" tvg-chno="700",Nosey Escándalos
+http://mi.tv.org:9981/stream/channelid/601588356?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" tvg-id="82daee736dc3c310599903f34436ca6f" tvg-chno="700",One Piece
+http://mi.tv.org:9981/stream/channelid/1945033346?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" tvg-id="05b4bac544a9f6f2ae75a43bb82b92cb" tvg-chno="700",Paisajes por Stingray
+http://mi.tv.org:9981/stream/channelid/1169863685?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" tvg-id="4b71d6c0c46c3e26878940213b1ac201" tvg-chno="700",Paramount+ Presenta
+http://mi.tv.org:9981/stream/channelid/1087795531?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" tvg-id="aad6f4f3916dbb1c0d3d44320108d083" tvg-chno="700",Paramount+ Presenta
+http://mi.tv.org:9981/stream/channelid/1945425578?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" tvg-id="752720b1866ad79253a28cbc7a7e9629" tvg-chno="700",Pluto TV  Competencias
+http://mi.tv.org:9981/stream/channelid/824190837?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" tvg-id="ed873af18da77268d1ebab9bded3f2bb" tvg-chno="700",Pluto TV  Nuestro Cine
+http://mi.tv.org:9981/stream/channelid/1899661293?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" tvg-id="e9a578206436bd64165c0280d4b93420" tvg-chno="700",Pluto TV Adrenalina Freezone
+http://mi.tv.org:9981/stream/channelid/544777705?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png" tvg-id="0165c8a29267996a816888b0bd4f75ed" tvg-chno="700",Pluto TV Anime Héroes
+http://mi.tv.org:9981/stream/channelid/583558401?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-id="8be7b5f6f7e96f16b4e4d1b2523358bd" tvg-chno="700",Pluto TV Animé Acción
+http://mi.tv.org:9981/stream/channelid/1991632779?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" tvg-id="555f6bd4556a647708de2856c24a6c30" tvg-chno="700",Pluto TV Aventura
+http://mi.tv.org:9981/stream/channelid/1416322901?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" tvg-id="cafc027baf981443cb349ba9ea9ad598" tvg-chno="700",Pluto TV Ciencia
+http://mi.tv.org:9981/stream/channelid/2063793354?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" tvg-id="b6f90677545db38c1eb62c0bf9bd29f4" tvg-chno="700",Pluto TV Cine Comedia
+http://mi.tv.org:9981/stream/channelid/1996945846?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" tvg-id="78412e5fd8497833382a968934a12c7b" tvg-chno="700",Pluto TV Cine Drama
+http://mi.tv.org:9981/stream/channelid/1596866936?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" tvg-id="18a3d0095b44a07e050eadf67b532d7b" tvg-chno="700",Pluto TV Cine Estelar
+http://mi.tv.org:9981/stream/channelid/164668184?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" tvg-id="725d02b331c48339595dbc3623667fe8" tvg-chno="700",Pluto TV Cine Suspenso
+http://mi.tv.org:9981/stream/channelid/855793010?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" tvg-id="c0a485d9fdca2b5ec18e35dc2883e0f3" tvg-chno="700",Pluto TV Cine Terror
+http://mi.tv.org:9981/stream/channelid/1501930688?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" tvg-id="acdb312ed5c6aac79a4aea2b5af75c7a" tvg-chno="700",Pluto TV Cocina
+http://mi.tv.org:9981/stream/channelid/775019436?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" tvg-id="560dcbc1718f82ec7437c708ed75bc57" tvg-chno="700",Pluto TV Deportes
+http://mi.tv.org:9981/stream/channelid/1103826262?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" tvg-id="680fbdcb620cbd522f20da995c16080a" tvg-chno="700",Pluto TV E-Sports
+http://mi.tv.org:9981/stream/channelid/1270681448?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png" tvg-id="102386c294f1c0137fe45684c8d7552d" tvg-chno="700",Pluto TV España
+http://mi.tv.org:9981/stream/channelid/1116087056?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png" tvg-id="7e739e3719e6c1edccbc6454ff978b3c" tvg-chno="700",Pluto TV Fashionstream
+http://mi.tv.org:9981/stream/channelid/933131134?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png" tvg-id="a6dec271e1267ff4db335ad48a3c3e94" tvg-chno="700",Pluto TV Filmstream
+http://mi.tv.org:9981/stream/channelid/1908596390?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" tvg-id="55a739a44b31a3b42e4264dd471a98c7" tvg-chno="700",Pluto TV Historia
+http://mi.tv.org:9981/stream/channelid/607758165?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" tvg-id="4647ed1f61496c2646a61228f71e51cf" tvg-chno="700",Pluto TV Hogar
+http://mi.tv.org:9981/stream/channelid/535643974?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" tvg-id="ec671522fd28bef5f72d848123b763b4" tvg-chno="700",Pluto TV Investiga
+http://mi.tv.org:9981/stream/channelid/571828204?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" tvg-id="a6c8401e08c1f5692d62f5b2b779a39f" tvg-chno="700",Pluto TV Junior
+http://mi.tv.org:9981/stream/channelid/507562150?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" tvg-id="dea4aef99f622955e2bc16459df40723" tvg-chno="700",Pluto TV Mi Obsesión Favorita
+http://mi.tv.org:9981/stream/channelid/2041488606?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" tvg-id="b3738811206a24192ac501f52adddbbd" tvg-chno="700",Pluto TV Misterios
+http://mi.tv.org:9981/stream/channelid/294155187?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" tvg-id="d1c65ea859143b806d6fe30613cfa298" tvg-chno="700",Pluto TV Naturaleza
+http://mi.tv.org:9981/stream/channelid/677299921?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" tvg-id="39d70728015285fc2bffea8cfc1d1151" tvg-chno="700",Pluto TV Novelas
+http://mi.tv.org:9981/stream/channelid/671602489?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" tvg-id="87f7990f4f149d0c5f2046e4c42a9871" tvg-chno="700",Pluto TV Reality
+http://mi.tv.org:9981/stream/channelid/261748615?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" tvg-id="f25b626e5d9405e0fc985b463e729415" tvg-chno="700",Pluto TV Recetas
+http://mi.tv.org:9981/stream/channelid/1851939826?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" tvg-id="07a490e02e3e4b50176d09fe52fc513d" tvg-chno="700",Pluto TV Retro Cartoons
+http://mi.tv.org:9981/stream/channelid/1620091911?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" tvg-id="6171301aa31cdb2e72abb6361bdadeaa" tvg-chno="700",Pluto TV Series
+http://mi.tv.org:9981/stream/channelid/439382369?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" tvg-id="e2b071a6541f7a08c48e278c12036dcf" tvg-chno="700",Pluto TV Series Latinas
+http://mi.tv.org:9981/stream/channelid/644985058?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" tvg-id="e954ecf43c12c9122eb6e2eaf627a7a8" tvg-chno="700",Pluto TV Series Retro
+http://mi.tv.org:9981/stream/channelid/1961645289?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" tvg-id="1db37c38f006771a52c2bc284e3109d8" tvg-chno="700",Pluto TV Teen
+http://mi.tv.org:9981/stream/channelid/947696413?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" tvg-id="3803ffe5fc08797f47d87469c3344408" tvg-chno="700",Pluto TV Viajes
+http://mi.tv.org:9981/stream/channelid/1711211320?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" tvg-id="db32046c0575d7f9695edfca4279c13c" tvg-chno="700",Pluto TV Vida Real
+http://mi.tv.org:9981/stream/channelid/1812214491?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png" tvg-id="3f3f2b56ccb6bd2b907d89958940ca8a" tvg-chno="700",Rock Story
+http://mi.tv.org:9981/stream/channelid/1445674815?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" tvg-id="75efec11f3dd0a407e248b2a053e03b9" tvg-chno="700",Rugrats
+http://mi.tv.org:9981/stream/channelid/300740469?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f323397027f90007542bc3/colorLogoPNG.png" tvg-id="fc7972b35cda246e36e39660aaee670d" tvg-chno="700",Señorita Pólvora
+http://mi.tv.org:9981/stream/channelid/863140348?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" tvg-id="4563590fae9135950945d4dd89db3396" tvg-chno="700",Tastemade
+http://mi.tv.org:9981/stream/channelid/257516357?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" tvg-id="7d43f85c63fa33e2c3dd8f27ea26dc48" tvg-chno="700",Telefe Hits
+http://mi.tv.org:9981/stream/channelid/1559774077?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" tvg-id="a492ae63e9d07872fa32b4caf31c6140" tvg-chno="700",Telefe Noticias
+http://mi.tv.org:9981/stream/channelid/1672385188?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e017e44823db000726cd9a/colorLogoPNG.png" tvg-id="d5b66ddeabb0f0eac64619658182b52d" tvg-chno="700",The Ed Sullivan Show
+http://mi.tv.org:9981/stream/channelid/1584248533?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" tvg-id="670aafe0d945b3921302aef9e8d1c501" tvg-chno="700",The New Detectives
+http://mi.tv.org:9981/stream/channelid/1622084199?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" tvg-id="0f1506f7544c71262d6e4d9a9b49f954" tvg-chno="700",The Pet Collective
+http://mi.tv.org:9981/stream/channelid/1996887311?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" tvg-id="2ef29b77ae69936a94fa14f7791685c8" tvg-chno="700",Tokusato
+http://mi.tv.org:9981/stream/channelid/2006708782?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" tvg-id="eeb78c01524476296f965b17b7780361" tvg-chno="700",Wipe Out
+http://mi.tv.org:9981/stream/channelid/25999342?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" tvg-id="bb653fac53d03b59b2c10171113c3837" tvg-chno="700",Younger
+http://mi.tv.org:9981/stream/channelid/742352315?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" tvg-id="3c2b2090fc5aec072436df23a463d613" tvg-chno="700",Yu-Gi-Oh
+http://mi.tv.org:9981/stream/channelid/270543676?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" tvg-id="0fc822a30f01730f56279675044ee771" tvg-chno="701",Pluto TV Series
+http://mi.tv.org:9981/stream/channelid/589481999?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" tvg-id="e456245a44820d96b16c5cf92c8d073a" tvg-chno="703",The Night Shift
+http://mi.tv.org:9981/stream/channelid/1512330980?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" tvg-id="fa625423fcea020dc4e1ffd228804618" tvg-chno="704",Pluto TV Series Retro
+http://mi.tv.org:9981/stream/channelid/592732922?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" tvg-id="60eaa592b8b6ca4374ff7791e152fe34" tvg-chno="705",Hechizada
+http://mi.tv.org:9981/stream/channelid/312863328?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" tvg-id="e31a9716c33947a6c6430b7b6ab082c9" tvg-chno="708",Los Tres Chiflados
+http://mi.tv.org:9981/stream/channelid/379001571?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" tvg-id="846bc72dec880557e03cb9e6b8835433" tvg-chno="709",Pluto TV Retro Cartoons
+http://mi.tv.org:9981/stream/channelid/768043908?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e017e44823db000726cd9a/colorLogoPNG.png" tvg-id="727afc8346145bfa2120defd93d5908c" tvg-chno="710",The Ed Sullivan Show
+http://mi.tv.org:9981/stream/channelid/66878066?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" tvg-id="1535b06d4ecb3cf43c2a8bc564324179" tvg-chno="715",Pluto TV Series Latinas
+http://mi.tv.org:9981/stream/channelid/1840264469?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png" tvg-id="747faa96e2c9adf0646cc9cd3a84a872" tvg-chno="718",Pluto TV España
+http://mi.tv.org:9981/stream/channelid/380272500?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f323397027f90007542bc3/colorLogoPNG.png" tvg-id="8e28a73a81bd8bed49c2e40957a7c42a" tvg-chno="720",Señorita Pólvora
+http://mi.tv.org:9981/stream/channelid/984033422?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/612f8b455ed5810007170b5f/colorLogoPNG.png" tvg-id="99a078cc3b16d2c84c5bf2cc5527c00a" tvg-chno="721",El Mariachi
+http://mi.tv.org:9981/stream/channelid/1282973849?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png" tvg-id="272a56152ae46445dcd2d9e45b76bcad" tvg-chno="722",Rock Story
+http://mi.tv.org:9981/stream/channelid/357968423?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" tvg-id="50e4c2dd5786e413e9fbc62d59b84fb5" tvg-chno="724",Pluto TV Novelas
+http://mi.tv.org:9981/stream/channelid/1573053520?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" tvg-id="5d19dd29965919a4f00cb424b14b1b7c" tvg-chno="730",Sin Tetas No Hay Paraíso
+http://mi.tv.org:9981/stream/channelid/702355805?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" tvg-id="c69b3c4eb170c6895f74c3c5bba4e6e2" tvg-chno="734",Chilevision Contigo
+http://mi.tv.org:9981/stream/channelid/1312594886?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" tvg-id="6716e630fb9f2747d8d047fcd2e49ecf" tvg-chno="741",Gran Hermano en vivo
+http://mi.tv.org:9981/stream/channelid/820385383?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" tvg-id="708efb88cef7d3fe2a25325c7ee537da" tvg-chno="749",Telefe Hits
+http://mi.tv.org:9981/stream/channelid/150703728?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" tvg-id="fe187ca09800f4668093f8a452864f6c" tvg-chno="751",Nosey Escándalos
+http://mi.tv.org:9981/stream/channelid/545003774?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" tvg-id="66ea702a77321aefa596c0824ddde525" tvg-chno="756",MTV Pluto TV
+http://mi.tv.org:9981/stream/channelid/712043110?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" tvg-id="bf98b798ba3ffb6e509d9399cd34f1e9" tvg-chno="757",MTV Classic
+http://mi.tv.org:9981/stream/channelid/414685375?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" tvg-id="eaa0de86d6e5d6759e900c49cbcf34dc" tvg-chno="758",MTV Shore
+http://mi.tv.org:9981/stream/channelid/115253482?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" tvg-id="9151f9a648583b81f680272be2de7580" tvg-chno="760",MTV Ridiculousness
+http://mi.tv.org:9981/stream/channelid/653873553?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" tvg-id="911dd07640538f9b493e5f9eccd35b7f" tvg-chno="761",MTV Teen Mom
+http://mi.tv.org:9981/stream/channelid/1993350545?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" tvg-id="8000cb7937b8a09a45ce8b4c3eeb6cec" tvg-chno="763",MTV Catfish
+http://mi.tv.org:9981/stream/channelid/2043347072?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" tvg-id="4e86b69820329e724036ff2bd100f8a0" tvg-chno="775",Younger
+http://mi.tv.org:9981/stream/channelid/414615118?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" tvg-id="902fab240c8501dd11dd7096c81f8ee4" tvg-chno="776",Nick Teen
+http://mi.tv.org:9981/stream/channelid/615198608?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" tvg-id="019ec7ce7bb1e8f32720033e89e4c564" tvg-chno="777",Kenan y Kel
+http://mi.tv.org:9981/stream/channelid/1321704961?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" tvg-id="af719d4b5119d0bfeba5b44ce82a5780" tvg-chno="778",Nickelodeon iCarly
+http://mi.tv.org:9981/stream/channelid/1268609455?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" tvg-id="3c0cd4bcfcec689f7cf8e752b30e9b6b" tvg-chno="779",Pluto TV Teen
+http://mi.tv.org:9981/stream/channelid/1020529724?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png" tvg-id="cd9782b77a17ceb704e6703231b78c2e" tvg-chno="792",Iron Chef
+http://mi.tv.org:9981/stream/channelid/931305421?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" tvg-id="69a97e0f6fa8f2fa74f422c657ba74f5" tvg-chno="793",MasterChef
+http://mi.tv.org:9981/stream/channelid/259959145?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" tvg-id="903bc1ee92931050e55dcbc3671ea618" tvg-chno="794",Hells Kitchen
+http://mi.tv.org:9981/stream/channelid/1858157456?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" tvg-id="b1f2eeaca456c7c0fa33afa8ce2000c7" tvg-chno="795",Minuto Para Ganar
+http://mi.tv.org:9981/stream/channelid/753857201?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png" tvg-id="1198801153edeefdde09ae77c703b3e7" tvg-chno="796",Boom
+http://mi.tv.org:9981/stream/channelid/293640209?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" tvg-id="0ff36e52343cbf61313a103f3a554a7c" tvg-chno="797",Pluto TV  Competencias
+http://mi.tv.org:9981/stream/channelid/1383002895?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" tvg-id="f1b8c55ee11d62fd67bf453f69724a02" tvg-chno="798",Wipe Out
+http://mi.tv.org:9981/stream/channelid/1590016241?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Ehgzljg8T8lsiCG4M6CjOp-G1P7nizvlRKNaDd_rqEnAYn3nG5jbNHXQ7ljcjvDvXjojGC6Lyw=s88-c-k-c0x00ffffff-no-rj" tvg-id="c7ee4536508e1552ff852412dafbbba2" tvg-chno="800",A24.com
+http://mi.tv.org:9981/stream/channelid/910552775?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTaR6uAUe5RLvLNphuQ86MBF-gd_u_fxIZF3NRS=s88-c-k-c0x00ffffff-no-rj" tvg-id="0bc374b622a1a3031ec43baf2c6d5b7d" tvg-chno="800",Amo La Música
+http://mi.tv.org:9981/stream/channelid/913621771?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/EGbgl1gHSxzJPjRyxuKg2pypyDsV8fTJQ-BR6wJw41XRoCeEVOjAnmth_E7Z2neruFpTGC-t=s48-c-k-c0x00ffffff-no-rj" tvg-id="7c67cbe22b147e5f92d348e22c59d2d7" tvg-chno="800",CARACOL
+http://mi.tv.org:9981/stream/channelid/1657497468?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRMVylbUmUDYvs2Qh2FslWFKzDWNh9fM1VaqJIW1w=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="cc81eadc5822b6e091afa24ec0d168c6" tvg-chno="800",CBN ESPAÑOL
+http://mi.tv.org:9981/stream/channelid/1558872524?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSkHR00nR466TO8n0gXKow7Ppc83s8_BaQoln9lxg=s88-c-k-c0x00ffffff-no-rj" tvg-id="304b05ea9c2063aae08409bad2359029" tvg-chno="800",DAVE&AVA
+http://mi.tv.org:9981/stream/channelid/1778731824?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTy_gQ6RjIADIhC5tvmR_5c3WWQ0g3yE2p-k8Dv1Q=s48-c-k-c0x00ffffff-no-rj" tvg-id="3ee9a84e9fceea5df4cd5ad00c2e18a0" tvg-chno="800",DEPORTV
+http://mi.tv.org:9981/stream/channelid/1319692606?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhXY-iIvV4naxL4WWuS_JQKOqfjqwSgzMswGp4aJUc=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="ae0124385911e1b4aaebf93efda37a39" tvg-chno="800",DW Español1
+http://mi.tv.org:9981/stream/channelid/941883822?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQf-syaIe6Mw30bJZh0rB7dIbYrZQC1e2YBatvpzA=s48-c-k-c0x00ffffff-no-rj" tvg-id="2347662cfa1370d3e9e15f0ba98c290e" tvg-chno="800",ENCUENTRO1
+http://mi.tv.org:9981/stream/channelid/744900387?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQPBMr32egaSw12EVx693wELoyD-Swj3pbZCysP1A=s48-c-k-c0x00ffffff-no-rj" tvg-id="4b7fb70d43bd0c62f4cb06617f4704b1" tvg-chno="800",EURONEWS ESPAÑOL
+http://mi.tv.org:9981/stream/channelid/230129483?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngxE0l-vGHBafT-fP7WfCq_Xo7QfDLATRspf0agKA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="188c86289bde72a4a2250c0d6f6f16ef" tvg-chno="800",Euronews Español1
+http://mi.tv.org:9981/stream/channelid/679906328?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQg8ZHVsMBa4ARXfkpBjMJPuR8Innqpy4a7oX-1nA=s48-c-k-c0x00ffffff-no-rj" tvg-id="f24febc7e38e6eb55e8e2e357b2c49a4" tvg-chno="800",G12tv
+http://mi.tv.org:9981/stream/channelid/1206603762?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ9sUdDBUS9FQsh41am5MNazSmkWunhoqUPJUbC=s48-c-k-c0x00ffffff-no-rj" tvg-id="bbc07f5d11fe79f831fa37b63f7b1034" tvg-chno="800",Héroes en Pijamas
+http://mi.tv.org:9981/stream/channelid/1568653499?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTF0ThM6gzSvbbmiM6pM2LC6nogPFj8WpDfDKqYhKY=s48-c-k-c0x00ffffff-no-rj" tvg-id="f0ee23106dd15225169fd48ec13c9f00" tvg-chno="800",INTEGRITY MUSIC
+http://mi.tv.org:9981/stream/channelid/270790384?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLShZTWiRbjjA55vk5U0b8CgIAKM8uojS1D3limL=s48-c-k-c0x00ffffff-no-rj" tvg-id="63dd5d045b0c556f0beda0b5a625d6fe" tvg-chno="800",NICK JR. ESPAÑOL
+http://mi.tv.org:9981/stream/channelid/73260387?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRhoSEjiGAYUU5h0L_cwS4vhRttvenmG-J5BaSOjQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="408433c242c846047f424cd71a24d798" tvg-chno="800",PAW PATROL ESPAÑOL
+http://mi.tv.org:9981/stream/channelid/1110672448?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSQX77yOtrWL6SE_9yx2ahYmeUneTCgfZlwzW3QuQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="f63b310de046d0dc14cca1c9d97a1618" tvg-chno="800",PEPPA PIG ESPAÑOL
+http://mi.tv.org:9981/stream/channelid/221330422?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTzpN8YCpuGzvSsggwQitoHX_EwEvUd05pmfEer=s48-c-k-c0x00ffffff-no-rj-mo" tvg-id="b51c9d1a86634ea8bdcadc2b7ce5d2e4" tvg-chno="800",REVERE - 24/7 Worship
+http://mi.tv.org:9981/stream/channelid/446504117?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRJPpZk1EJSXOa6My3F10Kji_b6pUUXMPriZvqGSA=s88-c-k-c0x00ffffff-no-rj" tvg-id="86430248972de799296304a34bb04388" tvg-chno="800",TELEFE CORDOBA
+http://mi.tv.org:9981/stream/channelid/1208107910?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRg21cA1jnOWQVgswb5ktMCeg9C4RApd_x6Ylsk3XI=s88-c-k-c0x00ffffff-no-rj" tvg-id="f39f4b835b0d94e9a45afd4590cbefc5" tvg-chno="800",TELESUR
+http://mi.tv.org:9981/stream/channelid/55287795?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSbBPoxvbkcPgoHtRENtZA5mI_3impCInyevH1g=s48-c-k-c0x00ffffff-no-rj" tvg-id="312d7408b315de879150c83aa94a764a" tvg-chno="800",TELEVISA MEXICO
+http://mi.tv.org:9981/stream/channelid/141831473?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNae8OMdW8uBeGHtY9XgrGR8QFL8vVyDxuiwoD8A=s48-c-k-c0x00ffffff-no-rj" tvg-id="df0f09266d8d2a44ebbfbc217a253dc5" tvg-chno="800",Tv Publica
+http://mi.tv.org:9981/stream/channelid/638128095?profile=pass
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Xu7uS79Q1Ga6vDZcm0W5Ib0xCik3LVQd432QP6BYabqHaOTjtdjMyEbEaTho_z6hLZ6mXElFjA=s48-c-k-c0x00ffffff-no-rj" tvg-id="d40a1263d14f9971e1ba6ddc2e648831" tvg-chno="800",Vineyard Worship
+http://mi.tv.org:9981/stream/channelid/1662126804?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" tvg-id="4e7b2253e419496e98f7aca0591e4735" tvg-chno="801",CBS News
+http://mi.tv.org:9981/stream/channelid/1394768718?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" tvg-id="db6a3f84dc6a2cc10cfdb895a1364189" tvg-chno="803",Euronews Español
+http://mi.tv.org:9981/stream/channelid/71264987?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" tvg-id="f83d3e57fe516b656fda6501edf4badf" tvg-chno="805",Telefe Noticias
+http://mi.tv.org:9981/stream/channelid/1463696888?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" tvg-id="27f4faa23a6efa9d123e6aa83cea388a" tvg-chno="808",Chilevision Noticias
+http://mi.tv.org:9981/stream/channelid/586871847?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" tvg-id="fad57f4f4e3bf0dcc32519674fb89fc8" tvg-chno="851",Pluto TV Reality
+http://mi.tv.org:9981/stream/channelid/1333777914?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" tvg-id="6be6636859b38ad7512ef024cab11680" tvg-chno="852",Empeños a lo bestia
+http://mi.tv.org:9981/stream/channelid/1751377515?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" tvg-id="26cf130e139e5f33d33ab8994d60a81f" tvg-chno="856",Dog el cazarrecompensas
+http://mi.tv.org:9981/stream/channelid/236179238?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254ab6fa74f8e0007ba6879/colorLogoPNG.png" tvg-id="ddcdcbeac02e5d91d01cd4a2f79046b5" tvg-chno="860",Maestros de la Ilusión
+http://mi.tv.org:9981/stream/channelid/1791741405?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" tvg-id="c08a03a1f4b148c2bb5cbca811cbecd8" tvg-chno="862",Pluto TV Misterios
+http://mi.tv.org:9981/stream/channelid/553880256?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" tvg-id="441b8e01620b419fed46a25b75af3abc" tvg-chno="863",Historias de Ultratumba
+http://mi.tv.org:9981/stream/channelid/26090308?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" tvg-id="44e71191bc6b93107920e7fe8c1532e4" tvg-chno="865",Misterios Medicos
+http://mi.tv.org:9981/stream/channelid/286385988?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" tvg-id="92df7b139bab6465f00e2744a7736d71" tvg-chno="866",Pluto TV Mi Obsesión Favorita
+http://mi.tv.org:9981/stream/channelid/326885266?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" tvg-id="eed138a62debfb39c8077b8a517f86c8" tvg-chno="867",Pluto TV Vida Real
+http://mi.tv.org:9981/stream/channelid/641257966?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" tvg-id="bc24896b679a93a9ac5cb741d39eed64" tvg-chno="871",Pluto TV Naturaleza
+http://mi.tv.org:9981/stream/channelid/1804149948?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" tvg-id="7426e79b723590a1d6db6825cdf5b02f" tvg-chno="872",Paisajes por Stingray
+http://mi.tv.org:9981/stream/channelid/468133492?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" tvg-id="8c360588de56ffaf3c01fce86c21848d" tvg-chno="873",Pluto TV Animales
+http://mi.tv.org:9981/stream/channelid/134559372?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" tvg-id="1a0b5a37e43c36f4b0a7d9a06a868744" tvg-chno="874",El Encantador de Perros
+http://mi.tv.org:9981/stream/channelid/928647962?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" tvg-id="3a236a0d3b6fcbb729060096d57a93c1" tvg-chno="879",Pluto TV Aventura
+http://mi.tv.org:9981/stream/channelid/225059642?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" tvg-id="ceff6f1df47e830ae39649690b8d670b" tvg-chno="881",Ice Pilots
+http://mi.tv.org:9981/stream/channelid/493879246?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" tvg-id="5db12c1a971aebddf32ea0d7d0fe365b" tvg-chno="883",Pluto TV Velocidad
+http://mi.tv.org:9981/stream/channelid/439136605?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" tvg-id="243efb6e3016b002a83ee3091e7d832c" tvg-chno="886",Pluto TV Historia
+http://mi.tv.org:9981/stream/channelid/1861959204?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" tvg-id="33ec3025db197c1088f5dfb117056c4b" tvg-chno="897",Pluto TV Ciencia
+http://mi.tv.org:9981/stream/channelid/623963187?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/ch9larioja.png" tvg-id="0457e347c5bc5e8a78e90552cc90d853" tvg-chno="900", CH 9 LA RIOJA
+http://mi.tv.org:9981/stream/channelid/1206081284?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/cristovisidn.png" tvg-id="60fbe1f410f1b8f5a78cb5c72739bea8" tvg-chno="900",Cristovisiðn
+http://mi.tv.org:9981/stream/channelid/1960967008?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/depelicula.png" tvg-id="942f167cf6c735d34d66bc942604c09f" tvg-chno="900",De Pelicula
+http://mi.tv.org:9981/stream/channelid/2081828756?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/goldenpremier2.png" tvg-id="82b0dfc67f24154eac9ab581ef8f4932" tvg-chno="900",GOLDEN PREMIER 2
+http://mi.tv.org:9981/stream/channelid/1189064834?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/natgeokids.png" tvg-id="3451985203a47e7182ca0db4d524ee52" tvg-chno="900",NatGeo Kids
+http://mi.tv.org:9981/stream/channelid/1385713972?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/seotv.png" tvg-id="4cf0f4f9d4ce859fb94a1f6f80de4e5d" tvg-chno="900",SEO TV
+http://mi.tv.org:9981/stream/channelid/2046095436?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/tvp.png" tvg-id="4ee205198a3a683ec1bc05713e8e75f1" tvg-chno="900",TVP
+http://mi.tv.org:9981/stream/channelid/419816014?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" tvg-id="6aa82818498f5eec2b44a28f9b6d565b" tvg-chno="901",Pluto TV Investiga
+http://mi.tv.org:9981/stream/channelid/405317738?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" tvg-id="fe72b54eb66971a26279226a66f624a3" tvg-chno="904",Cazador de Homicidas
+http://mi.tv.org:9981/stream/channelid/1320514302?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" tvg-id="248f60201606e1c8bc1642743ed6f9a4" tvg-chno="905",Los archivos del FBI
+http://mi.tv.org:9981/stream/channelid/543199012?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" tvg-id="cd4ed68e4464bfde3ef89832db23308c" tvg-chno="906",Archivos Forenses
+http://mi.tv.org:9981/stream/channelid/248925901?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" tvg-id="9b4b6cd2d56b42744c653d3f554b98c0" tvg-chno="908",The New Detectives
+http://mi.tv.org:9981/stream/channelid/1382828955?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" tvg-id="c84c299d450d08ea80c5b9005318ade9" tvg-chno="909",Misterios sin Resolver
+http://mi.tv.org:9981/stream/channelid/489245896?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" tvg-id="3ec3b85259b9e0b9637ab4d8020e422d" tvg-chno="927",Pluto TV Anime
+http://mi.tv.org:9981/stream/channelid/1387840318?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-id="36fe2841d31f4f6602c3f3f82b8dbb27" tvg-chno="929",Pluto TV Animé Acción
+http://mi.tv.org:9981/stream/channelid/1093205558?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" tvg-id="90bb58e62fdf703db2ec7b530ab1795a" tvg-chno="931",Naruto
+http://mi.tv.org:9981/stream/channelid/1717091216?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" tvg-id="4f3a432a51e9fc0a97afcd70671c537c" tvg-chno="932",Death Note
+http://mi.tv.org:9981/stream/channelid/709048911?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" tvg-id="c1c02b271e650651a36459bca613f53a" tvg-chno="934",Yu-Gi-Oh
+http://mi.tv.org:9981/stream/channelid/657178817?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632119a92c3b880007d3f5dc/colorLogoPNG.png" tvg-id="104be78f971c9aad962415847d4d1f4e" tvg-chno="935",Beyblade
+http://mi.tv.org:9981/stream/channelid/266816272?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" tvg-id="123a64502ef879d8a984a3ede2ac2aac" tvg-chno="937",One Piece
+http://mi.tv.org:9981/stream/channelid/1348745746?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png" tvg-id="0070ff952448e8a06c31b60b21933d40" tvg-chno="940",Pluto TV Anime Héroes
+http://mi.tv.org:9981/stream/channelid/369061888?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" tvg-id="135737d938e35a6c3d20a043c77e90be" tvg-chno="942",Tokusato
+http://mi.tv.org:9981/stream/channelid/1496798995?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" tvg-id="188aea740b9a3f88882892dbd6708560" tvg-chno="944",Pluto TV E-Sports
+http://mi.tv.org:9981/stream/channelid/1961527832?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" tvg-id="0e056e1060a960e8d94639f4e9f18bff" tvg-chno="947",ESR 24/7
+http://mi.tv.org:9981/stream/channelid/275645710?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" tvg-id="cf58f2cae2d23c83d5003fd65fea7b67" tvg-chno="1000",La Liga Premier | Paramount+
+http://mi.tv.org:9981/stream/channelid/1257396431?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" tvg-id="ca447c432dde53b0395d4d4b480df0fc" tvg-chno="1002",Pluto TV Deportes
+http://mi.tv.org:9981/stream/channelid/1132217546?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" tvg-id="cc4f675edef250d5dde0dcef6efdc611" tvg-chno="1003",FUEL TV
+http://mi.tv.org:9981/stream/channelid/1583828940?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" tvg-id="dfe006d267bdae4e865600f43b411cce" tvg-chno="1006",La Selección
+http://mi.tv.org:9981/stream/channelid/1376182495?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" tvg-id="982cf6c6fd1b51d83fdc362063fcabc4" tvg-chno="1008",Pluto TV Peleas
+http://mi.tv.org:9981/stream/channelid/1190538392?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" tvg-id="20e0b57cca1298fd6cfd0f3687ca8fa8" tvg-chno="1012",Lucha Libre AAA
+http://mi.tv.org:9981/stream/channelid/2092294176?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" tvg-id="4ed3a3cb33fe8d309a841791b1c9bd8a" tvg-chno="1030",Motorvision TV
+http://mi.tv.org:9981/stream/channelid/1269027662?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" tvg-id="70754043b914276cf4915729d9e0cb8c" tvg-chno="1102",FailArmy
+http://mi.tv.org:9981/stream/channelid/1128297840?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" tvg-id="2dc35e1081899d0137396cb9a5711837" tvg-chno="1105",The Pet Collective
+http://mi.tv.org:9981/stream/channelid/274645805?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" tvg-id="450fae47123a52385bdd948b8e72d751" tvg-chno="1107",Pluto TV Humor
+http://mi.tv.org:9981/stream/channelid/1202589509?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png" tvg-id="a31674b87dd307ddd9c3ed0a49763364" tvg-chno="1108",Schitt's Creek
+http://mi.tv.org:9981/stream/channelid/947132067?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" tvg-id="71a75b4af250a88da9176b985ad46fc1" tvg-chno="1109",Comedy Central Pluto TV
+http://mi.tv.org:9981/stream/channelid/1247520625?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc8684bf50b00074a46b1/colorLogoPNG.png" tvg-id="89db659b14754028357b8ac5702944ca" tvg-chno="1110",Backdoor
+http://mi.tv.org:9981/stream/channelid/459660169?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" tvg-id="bea0885131029cbd98870f6f81e8d201" tvg-chno="1111",Comedy Central South Park
+http://mi.tv.org:9981/stream/channelid/1367908542?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" tvg-id="be4b5c6175ff45a7d9436956d539a48f" tvg-chno="1113",Daria
+http://mi.tv.org:9981/stream/channelid/1633438654?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" tvg-id="bb4c9e0a340773c10c08cce8ff9725ae" tvg-chno="1115",La Familia del Barrio
+http://mi.tv.org:9981/stream/channelid/178146491?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" tvg-id="a74614cbe9d505d33c4480164ecbc016" tvg-chno="1151",Pluto TV Viajes
+http://mi.tv.org:9981/stream/channelid/1259620007?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" tvg-id="40508e69ef1de0fbb45afd768f135ac7" tvg-chno="1154",Pluto TV Cocina
+http://mi.tv.org:9981/stream/channelid/1770934336?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" tvg-id="f0d531a5b1be75af041f9a6b4ec638c3" tvg-chno="1155",Pluto TV Recetas
+http://mi.tv.org:9981/stream/channelid/624023024?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" tvg-id="afaa96e0580175e64fe049a9b154387e" tvg-chno="1156",Tastemade
+http://mi.tv.org:9981/stream/channelid/1620486831?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" tvg-id="e6442d8e022191789c59e3b417c4c2b6" tvg-chno="1157",Pluto TV Hogar
+http://mi.tv.org:9981/stream/channelid/237847782?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png" tvg-id="b04af0fde5b0b0b47ce89be379fcb6af" tvg-chno="1163",Pluto TV Fashionstream
+http://mi.tv.org:9981/stream/channelid/2112899760?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" tvg-id="1291fff4e64265bf8959b8b4082b4b95" tvg-chno="1301",Baby Shark TV
+http://mi.tv.org:9981/stream/channelid/1962905874?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" tvg-id="f6c8270b6404b51a7226598408a1908c" tvg-chno="1302",Babyfirst
+http://mi.tv.org:9981/stream/channelid/187156726?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" tvg-id="bb510ad036f9c48e1820ee42ec607e92" tvg-chno="1303",Pluto TV Junior
+http://mi.tv.org:9981/stream/channelid/1342853563?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" tvg-id="d989531f7f0e37191f658699e5351c29" tvg-chno="1306",Nick Jr. Club
+http://mi.tv.org:9981/stream/channelid/525568473?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" tvg-id="e65f08278c622c97b0e94bce53b5bb01" tvg-chno="1307",Las Pistas de Blue
+http://mi.tv.org:9981/stream/channelid/654860262?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" tvg-id="84c3c627ca876a08dcc131d29a28c80d" tvg-chno="1309",Barney
+http://mi.tv.org:9981/stream/channelid/667337604?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" tvg-id="97661fdfe79817920a33d48566f3fa49" tvg-chno="1315",Babar
+http://mi.tv.org:9981/stream/channelid/1595893399?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" tvg-id="b146d9e205ac059b83963482251f8730" tvg-chno="1317",El Reino Infantil
+http://mi.tv.org:9981/stream/channelid/1658406577?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" tvg-id="a2b85c24cc41a33a27297c175f58abea" tvg-chno="1319",Pluto TV Anime Kids
+http://mi.tv.org:9981/stream/channelid/610056354?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" tvg-id="487bcd4cbb14ba847f33f7e7e4d8d59f" tvg-chno="1321",Pluto TV Kids
+http://mi.tv.org:9981/stream/channelid/1288534856?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" tvg-id="520ce7848737ab302ca98da341278aca" tvg-chno="1326",Bob Esponja Pantalones Cuadrados
+http://mi.tv.org:9981/stream/channelid/82250834?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" tvg-id="141a54ad024ab171d7e37b2bffdd67db" tvg-chno="1327",Los Padrinos Mágicos
+http://mi.tv.org:9981/stream/channelid/760486420?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" tvg-id="e30f6b6968c620242a84836f122930c6" tvg-chno="1330",Nick Clásico
+http://mi.tv.org:9981/stream/channelid/1768624099?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" tvg-id="b5ed08fecf09f8396db6f4a0c1a2b16e" tvg-chno="1332",Rugrats
+http://mi.tv.org:9981/stream/channelid/2114514357?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" tvg-id="ff66943ff44f20962eab0964554c6ab2" tvg-chno="1333",Nickelodeon Rocket Power
+http://mi.tv.org:9981/stream/channelid/1066690303?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" tvg-id="973a44b7d40726cb64be3b76dbba4cc7" tvg-chno="1505",Conciertos por Stingray
+http://mi.tv.org:9981/stream/channelid/927218327?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" tvg-id="acd2d9f0a998899c7465cb939718db99" tvg-chno="1506",Karaoke por Stingray
+http://mi.tv.org:9981/stream/channelid/1893323436?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" tvg-id="1b27d55ae908245ad38b1dfecf0b3eb8" tvg-chno="1515",MTV Biggest Pop
+http://mi.tv.org:9981/stream/channelid/1523918619?profile=pass
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" tvg-id="ad90e5c7362c677d517445db2a1ffec0" tvg-chno="1516",MTV Spankin' New
+http://mi.tv.org:9981/stream/channelid/1206227117?profile=pass
+#EXTINF:-1 tvg-logo="http://mi.tv.org/clpicons/icons/movistardeportes.png" tvg-id="d2540c03eec8081bce1de8f0df380a6b" tvg-chno="10000",Movistar Deportes
+http://mi.tv.org:9981/stream/channelid/51139794?profile=pass
